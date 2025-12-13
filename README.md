@@ -1,4 +1,3 @@
-# dio-trilha-java-b-sico
 Repositório para exemplos do curso  de Java Básico pela DIO
 # Exemplo 1: MinhaClasse
 - Aqui aprendi a criar classe a qual inicia-se 99.9% com "public class".- Declarei o nome da classe "MinhaClasse" a qual deverá iniciar com letra maiuscula e se for uma palavra composta a segunda palavra deve-se iniciar também com letra maiúscula.
