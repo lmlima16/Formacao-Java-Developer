@@ -1,5 +1,4 @@
 public class ContadorPalavras {
-
   public static void main(String[] args){
     System.out.println("\n== Aprendendo a Programar em Java ==");{
 
