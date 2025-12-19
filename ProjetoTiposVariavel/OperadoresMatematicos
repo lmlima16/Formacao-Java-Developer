@@ -1,0 +1,11 @@
+public class OperadoresMatematicos {  
+
+	public static void main(String[] args){
+	  System.out.println("\n == Soma ==");
+		
+	  double soma = 15.5 + 15.5;
+
+    System.out.println("Resultado da Soma: " + soma);
+
+	}	
+}
